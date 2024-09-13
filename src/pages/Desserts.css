@@ -1,0 +1,18 @@
+.page-container {
+    background-color: black;
+    width: 50rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.items-section {
+    background-color: red;
+    width: 33rem;
+    height: 40rem;
+}
+
+.cart-container {
+    background-color: blue;
+    width: 16rem;
+    height: 18rem;
+}
